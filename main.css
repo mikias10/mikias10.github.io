@@ -1,0 +1,104 @@
+body {
+
+	font-family: Georgia;
+	line-height: 14px/18px;
+	margin: 0 auto;
+	
+
+}
+
+.wrap {
+
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+a {
+
+	color: #777;
+	text-decoration: none;
+}
+
+h1 {
+
+	font-size: 40px;
+}
+
+
+ul li {
+
+	list-style: none;
+}
+
+.social-icons {
+
+	margin-top: 15px;
+}
+
+.mid-section {
+
+	margin-top: 100px;
+	
+}
+
+.mid-section h1 {
+
+	font-family: Georgia, Times, "Times New Roman", serif;
+	font-size: 700%;
+	margin-top: -10px;
+	
+}
+
+.about {
+
+	margin-top: 15px;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+
+.portfolio {
+
+	text-align: center;
+}
+
+.portfolio li {
+
+	padding: 3%;
+}
+
+.education p {
+
+	padding: 2%;
+}
+
+.education h2 {
+	padding-left: 2%;
+}
+
+.skills {
+
+	margin: 70px auto;	
+}
+
+.skills h2 {
+	margin-top: -30px;
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+.skills ul {
+
+	text-align: center;
+}
+
+.footer {
+
+	text-align: center;
+	font-size: 12px;
+	color: #777;
+
+}
+
+
+
+
