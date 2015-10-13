@@ -30,6 +30,31 @@ ul li {
 	list-style: none;
 }
 
+
+/*.app-img {
+
+	height: 230px;
+	border: 1px red solid;
+	padding: 0 auto;
+}
+
+.app-img a {
+	
+	position: relative;
+	display: block;
+	margin: 0 auto;
+	margin-left:10%;
+	margin-right: 10%;
+
+}
+*/
+/*.two {
+	margin-top: -68px;
+}
+
+.three{
+		margin-top: -135px;
+}*/
 .social-icons {
 
 	margin-top: 15px;
@@ -63,7 +88,8 @@ ul li {
 
 .portfolio li {
 
-	padding: 3%;
+	margin-top: 20px;
+	margin-bottom: 40px;
 }
 
 .education p {
