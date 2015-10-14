@@ -24,36 +24,16 @@ h1 {
 	font-size: 40px;
 }
 
-
 ul li {
-
 	list-style: none;
 }
 
-/*.app-img {
+ul.portfolio >li {
 
-	height: 230px;
-	border: 1px red solid;
-	padding: 0 auto;
+	margin-left: -14%;
 }
 
-.app-img a {
-	
-	position: relative;
-	display: block;
-	margin: 0 auto;
-	margin-left:10%;
-	margin-right: 10%;
 
-}
-*/
-/*.two {
-	margin-top: -68px;
-}
-
-.three{
-		margin-top: -135px;
-}*/
 .social-icons {
 
 	margin-top: 15px;
@@ -80,10 +60,6 @@ ul li {
 	padding-right: 25%;
 }
 
-.portfolio {
-
-	text-align: center;
-}
 
 .portfolio li {
 
