@@ -60,7 +60,12 @@ ul.portfolio >li {
 	padding-right: 25%;
 }
 
+.port-section{
+	padding-left: 10%;
+	padding-right: 10%;
 
+	
+}
 .portfolio li {
 
 	margin-top: 20px;
