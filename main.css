@@ -71,6 +71,13 @@ ul.portfolio >li {
 	position: relative;
 	top: 0px;
 }
+
+.soap {
+
+	display: block;
+	margin-top: 15px;
+	width: 100%;
+}
 .portfolio li {
 	margin-top: 20px;
 	margin-bottom: 40px;
