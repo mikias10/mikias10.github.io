@@ -69,7 +69,7 @@ ul.portfolio >li {
 
 #portfolio {
 	position: relative;
-	    top: 40px;
+	top: 0px;
 }
 .portfolio li {
 	margin-top: 20px;
