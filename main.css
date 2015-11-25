@@ -13,6 +13,10 @@ body {
 	margin: 0 auto;
 }
 
+.explanation {
+	font-size:0.8em;
+}
+
 a {
 
 	color: #777;
@@ -118,6 +122,9 @@ ul.portfolio >li {
 .skills ul {
 
 	text-align: center;
+}
+.clear {
+	clear: both;
 }
 
 .footer {
