@@ -3,6 +3,8 @@ body {
 	font-family: Georgia;
 	line-height: 14px/18px;
 	margin: 0 auto;
+	background-color: rgba(127, 140, 141,1.0);
+	color: #fff !important;
 
 }
 
@@ -12,27 +14,47 @@ body {
 	margin-right: 2%;
 	margin: 0 auto;
 }
-
 .explanation {
 	font-size:0.8em;
 }
 
+hr {
+
+	border: 4px solid #fff;
+
+}
 a {
 
-	color: #777;
+	color: #fff;
 	text-decoration: none;
 }
 
 h1 {
 
 	font-size: 40px;
+	color: #fff;
 }
 
 ul li {
 	list-style: none;
+	color: #fff;
 
 }
+p{
+	color: #fff;
+}
 
+h3 {
+	color: #fff;
+}
+
+h2 {
+	color: #fff;
+}
+
+small {
+	color: #fff;
+}
 ul.portfolio >li {
 
 	margin-left: -14%;
